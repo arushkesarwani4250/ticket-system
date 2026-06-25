@@ -1,0 +1,22 @@
+# Compiled binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+ticket-system-test-bin
+tmp_build
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Databases (in case of local testing)
+*.db
+*.db-journal
+
+# IDEs & System
+.idea/
+.vscode/
+.DS_Store
