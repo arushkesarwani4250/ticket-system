@@ -63,5 +63,5 @@ Once the server is running, you can access the interactive Swagger documentation
 2. Create a new **Web Service** on Render connected to your GitHub repo.
 3. Select **Docker** as the runtime environment.
 4. Add environment variables:
-   - `DATABASE_URL` (Internal database URL from step 1)
-   - `JWT_SECRET` (Your JWT signing secret)
+   - `DATABASE_URL` 
+   - `JWT_SECRET` 
