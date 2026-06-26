@@ -2,6 +2,11 @@
 
 A simple backend service written in Go for a ticket system. It supports user registration, login, ticket creation, ownership-based ticket isolation, and custom ticket status validation rules.
 
+## Deployed URL
+* **Live Base URL**: `https://ticket-system-sybl.onrender.com`
+* **Interactive API Documentation (Swagger)**: [https://ticket-system-sybl.onrender.com/docs](https://ticket-system-sybl.onrender.com/docs)
+* **Health Check**: [https://ticket-system-sybl.onrender.com/health](https://ticket-system-sybl.onrender.com/health)
+
 ## Tech Stack
 - Go
 - PostgreSQL
